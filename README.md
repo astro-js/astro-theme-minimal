@@ -1,4 +1,12 @@
-# [Astro](https://astro.build)
+# Astro: Minimal Theme
+
+```
+npm init astro -- --template minimal
+```
+
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/astro-js/astro-theme-blog)&nbsp;&nbsp;[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/astro-js/astro-theme-blog)
+
+## Project Structure
 
 Inside of your Astro project, you'll see the following folders and files:
 
@@ -31,4 +39,4 @@ All commands are run from the root of the project, from a terminal:
 
 ## 👀 Want to learn more?
 
-Feel free to check [our documentation](https://github.com/snowpackjs/astro) or jump into our [Discord server](https://astro.build/chat).
+Check out [the documentation](https://github.com/snowpackjs/astro) or jump into our [Discord server](https://astro.build/chat).
